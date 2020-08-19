@@ -1,2 +1,6 @@
-decide what business to order from
-decide what type of pizza to order
+1) decide what business to order from
+    1a) discuss with friends
+2)decide what type of pizza to order
+    2a)choose crust type
+    2b)choose toppings
+3)place order for pizza    
