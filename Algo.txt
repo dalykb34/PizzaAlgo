@@ -3,4 +3,5 @@
 2)decide what type of pizza to order
     2a)choose crust type
     2b)choose toppings
-3)place order for pizza    
+3)place order for pizza  
+4) wait for pizza to be ready  
